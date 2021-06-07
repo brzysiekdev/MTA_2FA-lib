@@ -1,7 +1,7 @@
 
 --[[
     Type: Shared
-    Developers: Inder00 <admin@multirpg.pl>
+    Developers: Maciej "skurwiel inder00" <inder00@multirpgay.pl>
 ]]--
 
 -- base32 hash table
